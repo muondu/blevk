@@ -1,7 +1,10 @@
 body{
    font-family: 'Montserrat', sans-serif;
- 
+   
 }
-.back{
-    background-image: url(main.css)
+.grey{
+    background-color: lightgray;
+}
+.black{
+    background-color: black;
 }
